@@ -27,6 +27,13 @@ These extensions make it a breeze to develop with Python
 - Python Docstring Generator
   - Really helpful automatic docstring generator.
 
+## C/C++ Extensions
+
+- C/C++
+- Doxygen Documentation Generator
+- CMake
+  - Provides language support for CMake.
+
 ## Documentation/Text Editing Extensions
 
 These extensions make it easier to work with writing documentation and editing texts in general.
