@@ -58,3 +58,8 @@ These extensions pertain to developing on machines other than your local one.
 - Remote - SSH
   - Great so that you can development remotely in VS Code instead of having to configure your Vim installation just how you like it.
 
+## Miscellaneous Extensions
+
+- Bracket pair colorizer
+  - Simple but really helps with finding unclosed brackets.
+
