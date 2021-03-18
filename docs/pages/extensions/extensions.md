@@ -11,17 +11,21 @@ These pages describe the extensions that I like to download to make developing i
 * TOC
 {:toc}
 
+## Git Extensions
+
+- Git History
+- Git Graph
+- GitLens
+- Git Blame
+
 ## Python Extensions
 
 These extensions make it a breeze to develop with Python
 
-### Python
-
-Haven't put much thought into this one. I think it's the default recommended one.
-
-### Python Docstring Generator
-
-Really helpful automatic docstring generator.
+- Python
+  - Haven't put much thought into this one. I think it's the default recommended one.
+- Python Docstring Generator
+  - Really helpful automatic docstring generator.
 
 ## Documentation/Text Editing Extensions
 
@@ -31,21 +35,17 @@ These extensions make it easier to work with writing documentation and editing t
 
 Markdown-specific extensions. Something that I use a lot since I journal exclusively in markdown.
 
-#### Markdown Preview Enhanced
-
-A slightly better previewer than the built-in VS Code markdown previewer.
-
-#### Markdown All in One
-
-Lots of editing automation like automatically updated table of contents, checklists, etc.
+- Markdown Preview Enhanced
+  - A slightly better previewer than the built-in VS Code markdown previewer.
+- Markdown All in One
+  - Lots of editing automation like automatically updated table of contents, checklists, etc.
 
 ### PDF Extensions
 
 These extensions pertain to working with PDFs.
 
-#### VSCode-pdf
-
-Lets you display PDF files in VS Code.
+- VSCode-pdf
+  - Lets you display PDF files in VS Code.
 
 ### Draw.io Integration
 
@@ -55,6 +55,6 @@ Lets you display PDF files in VS Code.
 
 These extensions pertain to developing on machines other than your local one.
 
-### Remote - SSH
+- Remote - SSH
+  - Great so that you can development remotely in VS Code instead of having to configure your Vim installation just how you like it.
 
-Great so that you can development remotely in VS Code instead of having to configure your Vim installation just how you like it.
