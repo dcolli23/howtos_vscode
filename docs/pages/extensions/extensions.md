@@ -54,6 +54,11 @@ These extensions pertain to working with PDFs.
 - VSCode-pdf
   - Lets you display PDF files in VS Code.
 
+### Code Architecture
+
+- PlantUML
+  - Awesome tool for architecting/planning out code. VERY useful. Something that rapidly accelerated my development time.
+
 ### Draw.io Integration
 
 **Awesome** draw.io integration directly in VS Code. Works great and is excellent for producing quick diagrams.
@@ -63,10 +68,12 @@ These extensions pertain to working with PDFs.
 These extensions pertain to developing on machines other than your local one.
 
 - Remote - SSH
-  - Great so that you can development remotely in VS Code instead of having to configure your Vim installation just how you like it.
+  - Great so that you can develop remotely in VS Code instead of having to configure your Vim installation just how you like it.
 
 ## Miscellaneous Extensions
 
-- Bracket pair colorizer
+- Bracket pair colorizer version 2
   - Simple but really helps with finding unclosed brackets.
+  - Version 2 uses the same bracket parser as VS Code so it's apparently much quicker.
+
 
