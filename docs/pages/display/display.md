@@ -11,6 +11,14 @@ This page contains all of the information on setting up VS Code display how I pr
 * TOC
 {:toc}
 
+### File Explorer
+
+The indentation size on the file explorer is really really small on some high resolution monitors, so increasing it can help with navigation a whole lot. To do this, change the indent setting to something higher (in pixels). 25 is typically pretty good.
+
+```json
+"workbench.tree.indent": 25
+```
+
 ### Miscellaneous
 
 A sort of random collection of tips and tricks.
