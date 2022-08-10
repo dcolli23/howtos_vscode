@@ -72,8 +72,8 @@ These extensions pertain to developing on machines other than your local one.
 
 ## Miscellaneous Extensions
 
-- Bracket pair colorizer version 2
-  - Simple but really helps with finding unclosed brackets.
-  - Version 2 uses the same bracket parser as VS Code so it's apparently much quicker.
-
+- vscode-icons
+  - Adds small icons next to directories/files in file explorer menu. Useful for quickly identifying file type instead of reading file extensions.
+- ROS
+  - Apparently this is very useful. I haven't had a chance to extensively explore the features offered in this extension.
 
