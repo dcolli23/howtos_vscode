@@ -19,6 +19,20 @@ The indentation size on the file explorer is really really small on some high re
 "workbench.tree.indent": 25
 ```
 
+### Line Length Rulers
+
+When developing, I find line length easy to forget about and before I know it I have a monstrous 150 character line. To add a small vertical line in VS Code as a visual reminder, do the following:
+1. Open VS Code
+2. Hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd> to open the command palette
+3. Type "Preferences: Open User Settings (JSON)"
+4. Add this JSON specification on a new line: 
+    ```
+    "editor.rulers": [100]
+    ```
+    where the value (the thing after the colon) is a list which tells VS Code where to put a vertical line. 
+    
+    You can also set multiple vertical lines, though I'm not a huge fan of that. I'm personally a fan of the 100 character line limit since it's not very restrictive but still allows for full side-by-side viewing of two files on most modern 24 inch monitors.
+
 ### Miscellaneous
 
 A sort of random collection of tips and tricks.
